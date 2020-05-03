@@ -1,4 +1,5 @@
 2020-05-03 Tetsumune KISO <t2mune@gmail.com>
+	* Update - updated "BGP_ATTR_T", "BGP_OPEN_ERR_SC", "BGP_CEASE_ERR_SC".
 	* Update - updated comments.
 
 2020-04-30 Tetsumune KISO <t2mune@gmail.com>
